@@ -11,5 +11,6 @@ Complex systems need to be in some sense _ecologically sound_ or they display de
 Generally speaking, I'm a _senior full-stack TypeScript developer_. I've also built production applications with Elixir and Java and have studied a bit of systems programming in C. I'm very comfortable with AWS, Kubernetes, and Docker and, more recently, have explored deploying applications to [Fly](https://fly.io). Right now I'm running a startup so I've been doing a ton of product development and technical project management. Our team's building in the open, here are some of the projects I lead:
 
 * [xmtp-hooks](https://github.com/relaycc/xmtp-hooks)
+* [xmtp client app](https://github.com/relaycc/xmtp) (deployed at https://xmtp.relay.cc)
 * [Relay Receiver](https://github.com/relaycc/receiver)
-* [Relay](https://github.com/relaycc/relay)
+* [Relay](https://github.com/relaycc/relay) (deployed at https://relay.cc)
