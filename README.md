@@ -34,9 +34,9 @@ My preferred tech stack looks something like this:
 
 I'm not particularly interested in decentralized finance (but I do think that some small fraction of DeFi applications will become fundamental primitives for the global financial system). To me, web3 is not about money but about _identity_, user-friendly public key cryptography, and open source software. Open, decentralized identity and data are together _the most promising antidote_ to the diseases which ravage the world's media platforms and, by extension, its people.
 
-Complex systems need to be in some sense _ecologically sound_ or they get sick and display degenerate behavior. Web 2.0 is not ecologically sound, it's a bunch of disjoint monocultures slapped together, so we find degeneracies in the system: simplistic thinking, mobbish behavior, runaway (thought) processes, etc. The ecosystem of networked applications powered by decentralized identity and open/self-sovereign data are _the first serious attempt at scale to develop ecologically sound solutions to social web applications_.
+Complex systems need to be in some sense _ecologically sound_ or they get sick and display degenerate behavior. Web 2.0 is not ecologically sound, it's a bunch of disjoint monocultures slapped together, so we find degeneracies in the system: simplistic thinking, mobbish behavior, runaway (thought) processes, etc. Web3 defined as "networked applications powered by decentralized identity and open/self-sovereign data" is in my opinion _the most promising attempt at scale to develop ecologically sound solutions to social web applications_.
 
-Here's a short (very non-exhaustive) list of some projects that I think are worth following:
+Here's a short (very non-exhaustive) list of some important projects:
 
 - [XMTP](https://xmtp.org)
 - [ENS](https://ens.domains)
