@@ -9,7 +9,7 @@ Generally speaking, I can do whatever it takes to lead a project from idea to pr
 My preferred tech stack looks something like this:
 
 - TypeScript
-- React + (Tailwind or StyledComponents) for UIs
+- Next.js + (Tailwind or StyledComponents) for UIs
 - Node.js + (Express or Fastify) for HTTP
 - Postgres (via Supabase) for persistence
 - Redis (if necessary) for unfortunate statefullness
