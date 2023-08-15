@@ -8,9 +8,7 @@ Generally speaking, I can do whatever it takes to lead a project from idea to pr
 
 #### Active Projects ✨
 
-- [https://github.com/relay-network/xmtp-bridge](https://github.com/relay-network/xmtp-bridge)
-- [https://github.com/relay-network/receiver](https://github.com/relay-network/receiver)
-- [https://github.com/relay-network/demo](https://github.com/relay-network/demo)
+- [https://github.com/relay-network/bridge](https://github.com/relay-network/bridge)
 - [https://github.com/relay-network/receiver](https://github.com/relay-network/receiver)
 - [https://github.com/relay-network/robot](https://github.com/relay-network/robot)
 - [https://github.com/relay-network/analytical-engine (will be public very soon!)](https://github.com/relay-network/analytical-engine)
