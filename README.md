@@ -6,21 +6,6 @@ I'm Achilles, I build web applications. Right now I'm building (and stumbling my
 
 Generally speaking, I can do whatever it takes to lead a project from idea to production. More specifically, I'm a full-stack application developer with a strong understanding of ops and infrastructure. I specialize in TypeScript but also have experience with Elixir, Python, and Java. I've been working in the web3 ecosystem for the last few years and the language model ecosystem for the last year.
 
-My preferred tech stack looks something like this:
-
-- TypeScript
-- Next.js + (Tailwind or StyledComponents) for UIs
-- Node.js + (Express or Fastify) for HTTP
-- Postgres (via Supabase) for persistence
-- Redis (if necessary) for unfortunate statefullness
-- Cloudflare (if necesssary) for object storage and caching
-- Docker for process/service management
-- Digital Ocean (or AWS for larger projects) for hosting
-- Nginx for ingress (if necessary)
-- GitHub Actions for CI/CD
-- Mocha (or Jest) for end-to-end testing
-- Zod (for invariant-based programming) (this library would probably get my vote in the "slickest API design" awards)
-
 #### Active Projects ✨
 
 - [https://github.com/relay-network/xmtp-bridge](https://github.com/relay-network/xmtp-bridge)
