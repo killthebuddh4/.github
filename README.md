@@ -1,1 +1,1 @@
-Currently working on a master plan. I also maintain a [personal site](https://killthebuddha.pub).
+Wannabe [solarpunk](https://en.wikipedia.org/wiki/Solarpunk), working towards a more [convivial](https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113) society. I also maintain a [personal site](https://killthebuddha.pub).
