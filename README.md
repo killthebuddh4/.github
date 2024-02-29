@@ -2,7 +2,7 @@
 
 a full-stack web application developer and neophyte [solarpunk](https://en.wikipedia.org/wiki/Solarpunk), working towards a more [convivial](https://www.amazon.com/Tools-Conviviality-Ivan-Illich/dp/1842300113) society. I'm super excited about peer to peer message passing, decentralized databases, and local(ish) AI copilots. 
 
-# and is working on...
+# and hacks on...
 
 - [Gadfly](https://github.com/killthebuddh4/gadfly) - An experimental programming language with the ultimate goal of enabling autopoietic copilots.
 - [Banyan](https://github.com/banyan-cpu/banyan) - A programming platform for building extremely collaborative applications on the [XMTP](https://xmtp.org) messaging network.
