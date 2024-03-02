@@ -13,6 +13,7 @@ _Hello, I'm Achilles! I build web applications and other things and also write [
 
 ##### also
 
+- [cv](https://read.cv/achilles)
 - [twitter](https://twitter.com/killthebuddha_)
 - [instagram](https://instagram.com/killthebuddh4)
 - [farcaster](https://warpcast.com/ktb)
