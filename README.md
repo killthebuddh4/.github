@@ -9,10 +9,10 @@ _Hi, I'm Achilles! I build web applications and other things and also write [ess
 - [gecko](https://github.com/killthebuddh4/gecko) - An XMTP client library for golang.
 - [meadow](https://github.com/meadow-sh/meadow) - An AI copilot for focused thought work.
 
-##### live apps
+##### live sites
 
-- [min](https://min.banyan.sh) - The minimum viable (maybe 😬) decentralized social network.
-- [killthebuddha.pub](https://killthebuddha.pub) - My personal site.
+- [min](https://github.com/killthebuddh4/banyan/tree/master/apps/min) - The minimum viable (maybe 😬) decentralized social network.
+- [killthebuddha](https://killthebuddha.pub) - My personal site.
 - [relay receiver](https://demo.relay.cc) - An embeddable XMTP client widget for any React app.
 
 ##### also
