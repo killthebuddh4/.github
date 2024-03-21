@@ -11,7 +11,7 @@ _Hi, I'm Achilles! I build web applications and other things and also write [ess
 
 ##### live sites
 
-- [min](https://github.com/killthebuddh4/banyan/tree/master/apps/min) - The minimum viable (maybe 😬) decentralized social network.
+- [canopy](https://github.com/killthebuddh4/banyan/tree/master/apps/min) - The minimum viable (maybe 😬) decentralized social network.
 - [killthebuddha](https://killthebuddha.pub) - My personal site.
 - [relay receiver](https://demo.relay.cc) - An embeddable XMTP client widget for any React app.
 
