@@ -6,7 +6,7 @@ _Hi, I'm Achilles! I build web applications and other things and also write [ess
 - [ragnar](https://github.com/killthebuddh4/ragnar) - An introduction to and starter kit for (r)etrieval (a)ugmented (g)eneration.
 - [banyan](https://github.com/killthebuddh4/banyan) - A collaborative peer-to-peer programming platform.
 - [magic](https://github.com/killthebuddh4/magic) - A commit-by-commit approach to demystifying modern JavaScript environments.
-- [gecko](https://github.com/killthebuddh4/gecko) - An XMTP client library for golang.
+- [gecko](https://github.com/killthebuddh4/gecko) - An experimental programming language and XMTP client, written in go.
 - [meadow](https://github.com/meadow-sh/meadow) - An AI copilot for focused thought work.
 
 ##### live sites
