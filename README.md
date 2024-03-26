@@ -1,4 +1,4 @@
-_Hi, I'm Achilles! I build web applications and other things and also write [essays](https://killthebuddha.pub) and other things._
+_Hi, I'm Achilles! I build web applications and other things and also write [essays](https://ktb.pub) and other things._
 
 ##### oss
 
@@ -14,12 +14,12 @@ Recently I've been super interested in peer-to-peer applications, message passin
 ##### live sites
 
 - [canopy](https://github.com/killthebuddh4/banyan/tree/master/apps/min) - The minimum viable (maybe 😬) decentralized social network.
-- [killthebuddha](https://killthebuddha.pub) - My personal site.
+- [killthebuddha](https://ktb.pub) - My personal site.
 - [relay receiver](https://demo.relay.cc) - An embeddable XMTP client widget for any React app.
 
 ##### elsewhere
 
-- [writing](https://killthebuddha.pub)
+- [writing](https://ktb.pub)
 - [read.cv](https://read.cv/achilles)
 - [twitter](https://twitter.com/killthebuddha_)
 - [instagram](https://instagram.com/killthebuddh4)
