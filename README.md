@@ -14,7 +14,7 @@ _Hi, I'm Achilles! I build web applications and other things and also write [ess
 
 ##### sites
 
-- [hush](https://hush.ktb.pub) - e2ee + ephemeral group messaging
+- [shh](https://shh.ktb.pub) - Simple, secure, private, ephemeral group messaging.
 - [txt](https://txt.ktb.pub) - An experimental realtime social network.
 - [killthebuddha](https://ktb.pub) - My personal site.
 
