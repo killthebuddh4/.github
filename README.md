@@ -2,7 +2,7 @@ _Hi, I'm Achilles! I build web applications and other things and also write [ess
 
 ##### oss
 
-- [arcangel](https://github.com/killthebuddh4/arcangel) - A programming language and agent for solving the ARC-AGI.
+- [arcangel](https://github.com/killthebuddh4/arcangel) - A programming language and agent for solving ARC-AGI.
 - [fig](https://github.com/killthebuddh4/fig) - A React library for local-first, p2p applications.
 - [quiver](https://github.com/killthebuddh4/quiver) - A type-safe, end-to-end encrypted RPC library inspired by [trpc](https://trpc.io).
 - [gadfly](https://github.com/killthebuddh4/gadfly) - A system 2 compiler for language models.
